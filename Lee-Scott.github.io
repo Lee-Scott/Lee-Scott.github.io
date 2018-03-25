@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <script src="jstut.js"></script>
+    <script src="Lee-Scott.github.io"></script>
 
     <style type="text/css">
       body {font-size: 1.6em;}
