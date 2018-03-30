@@ -223,7 +223,7 @@ document.write("<br />");
 
 // do while is used when you must go through the loop at least once
 do{
-  var guess = prompt("Guess a number between 1 and 20");
+  var guess = prompt("Guess a number between 1 and 20 Hint its 15!");
 }while(guess != 15)
 
 alert("You guessed it! 15 was the number");
